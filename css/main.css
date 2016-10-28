@@ -1,3 +1,7 @@
-tbody th {
-  font-weight: normal;
+html {
+  font-family: "Merriweather", serif;
+}
+
+tbody td {
+  font-weight: bold;
 }
